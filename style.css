@@ -1,0 +1,561 @@
+.image-container {
+    position: relative;
+    width: 500px; 
+    height: 300px; 
+}
+
+.background-image {
+    width: 266%;
+    height: 230%; 
+}
+
+.background-image1 {
+    position: absolute;
+    width: 266%;
+    height: 270%; 
+    top: 430%;
+}
+
+.background-image2 {
+    width: 266%;
+    height: 350%; 
+   
+}
+
+.background-image3 {
+    width: 266%;
+    height: 270%; 
+    top: 1020%;
+   
+}
+
+.overlay-image {
+    position: absolute;
+    top: 45%; 
+    left: 45%; 
+    width: 60%; 
+    height: auto; 
+}
+
+.overlay-image1 {
+    position: absolute;
+    top: 465%; 
+    left: 150%; 
+    width: 85%; 
+    height: auto; 
+}
+
+.overlay-image2 {
+    position: absolute;
+    top: 66%; 
+    left: 27%; 
+    width: 200%; 
+    height: auto; 
+}
+
+
+.second-image {
+    position: absolute;
+    top: 54%; 
+    left: 115%; 
+    width: 35%; 
+    height: auto; 
+}
+
+.text-overlay {
+    position: absolute;
+    top: 45%; 
+    left: 115%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 16px;
+    white-space: nowrap;
+    color: white;
+    width:100%;
+}
+
+.text-overlay1 {
+    position: absolute;
+    top: 530%; 
+    left: 70%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 40px;
+    white-space: nowrap;
+    color: #363636;
+    width:100%;
+    font-family : "Stardom";
+}
+
+.text-overlay2 {
+    position: absolute;
+    top: 542%; 
+    left: 70%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 40px;
+    white-space: nowrap;
+    color: #363636;
+    width:100%;
+    font-family : "Stardom";
+}
+
+.text-overlay3 {
+    position: absolute;
+    top: 560%; 
+    left: 70%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 15px;
+    white-space: nowrap;
+    color: #363636;
+    width:100%;
+    font-family : "Stardom";
+    letter-spacing: ;
+}
+
+.text-overlay4 {
+    position: absolute;
+    top: 80%; 
+    left: 30%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 40px;
+    white-space: nowrap;
+    color: #363636;
+    width:100%;
+    font-family : "Stardom";
+}
+
+.text-overlay5 {
+    position: absolute;
+    top: 84%; 
+    left: 10%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 15px;
+    white-space: nowrap;
+    color: black;
+    width:100%;
+    font-family : "Stardom";
+    padding-left:2px ;
+}
+
+.text-overlay8 {
+    position: absolute;
+    top: 84%; 
+    left: 37%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 15px;
+    white-space: nowrap;
+    color: black;
+    width:100%;
+    font-family : "Stardom";
+    padding-left:2px ;
+}
+
+.text-overlay9 {
+    position: absolute;
+    top: 84%; 
+    left: 70%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 15px;
+    white-space: nowrap;
+    color: black;
+    width:100%;
+    font-family : "Stardom";
+    padding-left:2px ;
+}
+
+.text-overlay10 {
+    position: absolute;
+    top: 90%; 
+    left: 30%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 15px;
+    white-space: nowrap;
+    color: black;
+    width:100%;
+    font-family : "Stardom";
+    padding-left:2px ;
+}
+
+.text-overlay11 {
+    position: absolute;
+    top: 90%; 
+    left: 55%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 15px;
+    white-space: nowrap;
+    color: black;
+    width:100%;
+    font-family : "Stardom";
+    padding-left:2px ;
+}
+
+.text-overlay6 {
+    position: absolute;
+    top: 47%; 
+    left: 75%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 40px;
+    white-space: nowrap;
+    color: white;
+    width:100%;
+    font-family : "Stardom";
+    text-align: center;
+}
+
+.text-overlay7 {
+    position: absolute;
+    top: 5%; 
+    left: 1%; 
+    right: 30%;
+    bottom: 60%;
+    font-size: 40px;
+    white-space: nowrap;
+    color: black;
+    width:100%;
+    font-family : "Stardom";
+    text-align: center;
+}
+
+
+.text{
+    position: absolute;
+    top:90% ;
+    left: 115%; 
+    color: white; 
+    font-size: 10px; 
+    width: 100%;
+}
+
+.bg{
+    background-color: #fcf1e8;
+    height: 1000%;
+    width: 266%;
+    position: relative;
+    top:-1%;
+}
+
+.bg1{
+    background-color: white;
+    height: 600%;
+    width: 266%;
+    position: relative;
+    top:-1%;
+}
+
+.restaurant{
+    font-family: "Stardom";
+    text-align: center;
+    font-size: 40px;
+    padding-top: 90px;
+}
+
+.text-res{
+    font-family: "Freight Neo Wo3 Medium";
+    text-align: center;
+    padding-top: 30px;
+}
+
+.text-d{
+    font-family: "Freight Neo Wo3 Medium";
+    text-align: center;
+   position: absolute;
+   top: 45%;
+   left: 38%;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+/* .box{
+    padding-left: 10% ;
+    padding-top: 3%;
+    max-width: 100%;
+    vertical-align: middle;
+    
+   
+} */
+
+.box2{
+    padding-left: 10% ;
+    padding-top: 13%;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.bg2{
+    position: absolute;
+    top: 13%;
+    width: 500%;
+    height: 160%;
+}
+
+.box3{
+    /* background-color: var(--bricks-color-htzvsm); */
+    background-color: #fcf1e8;
+    position: absolute;
+    top: 18%;
+    left: 17%;
+    width: 42%;
+    height: 20%;
+}
+
+.p1{
+    position: absolute;
+    top: 9%;
+    left: 15%;
+    color: #787878;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.p2{
+    position: absolute;
+    left: 15%;
+    top: 18%;
+    font-size: 36px;
+    max-width: 100%;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    word-wrap: break-word;
+    color: #363636;
+    line-height: 1.7;
+}
+
+.p3{
+    position: absolute;
+    top: 64%;
+    left: 15%;
+    color: #787878;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.p4{
+    position: absolute;
+    left: 15%;
+    top: 74%;
+    font-size: 20px;
+    max-width: 100%;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    word-wrap: break-word;
+    color: #363636;
+    line-height: 1.7;
+}
+
+.box4{
+    position: absolute;
+    top: 45%;
+    background-color:#fcf1e8 ;
+    width: 18%;
+    height: 4.1%;
+}
+
+h4{
+    position: absolute;
+    top: -45%;
+    left: 8%;
+    font-size: 35px;
+    text-align: center;
+    font-family: "Stardom";
+    line-height: 1.4;
+    letter-spacing: -1px;
+}
+
+.ig{
+    position: absolute;
+    top: 53%;
+    left: 30%;
+    text-align: center;
+    font-family: "Stardom";
+    text-transform: uppercase;
+    line-height: 1.4;
+    color: #363636;
+    font-size: 40px;
+}
+
+.insta{
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    position: absolute;
+    top: 58%;
+    left: 40%;
+    font-size: 30px;
+}
+
+.box5{
+     position: absolute;
+     top: 64%;
+     left: 15%;
+     width: 235%;
+     height: 250%;
+}
+
+.box6{
+    position: absolute;
+    top: 64%;
+    left: 40%;
+    width: 235%;
+    height: 250%;
+}
+
+.box7{
+    position: absolute;
+    top: 64%;
+    left: 65%;
+    width: 235%;
+    height: 250%;
+}
+
+.book{
+    position: absolute;
+    top: 8%;
+    left: 14%;
+    color: #ffffff;
+    border-color: 2px solid black;
+    height: 10%;
+    width: 20%;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    letter-spacing: .5px;
+    padding: .5em 1em;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0);
+}
+.logo{
+  position: absolute;
+  top: -40%;
+  left: 50%;
+  height: 180%;
+  transform: rotate(-90deg);
+}
+
+.b3b{
+    position: absolute;
+    top: 8%;
+    left:12%;
+}
+
+.b4b{
+    position: absolute;
+    top: 8%;
+    left:39%;
+}
+
+.b5b{
+    position: absolute;
+    top: 8%;
+    left: 66% ;
+}
+
+.b6b{
+    position: absolute;
+    top: 26%;
+    left:12%;
+}
+
+.b7b{
+    position: absolute;
+    top: 26%;
+    left: 39%;
+}
+
+.b8b{
+    position: absolute;
+    top: 26%;
+    left: 66%;
+}
+
+.tt{
+    position: absolute;
+    top: 19.8%;
+    left: 15%;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    background-position: 50%;
+    color: #363636;
+    font-size: 28px;
+    line-height: 1.7;
+}
+
+.tt1{
+    position: absolute;
+    top: 19.8%;
+    left: 42%;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    background-position: 50%;
+    color: #363636;
+    font-size: 28px;
+    line-height: 1.4;
+}
+
+.tt2{
+    position: absolute;
+    top: 19.8%;
+    left: 68%;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    background-position: 50%;
+    color: #363636;
+    font-size: 28px;
+    line-height: 1.4;
+}
+
+.tt3{
+    position: absolute;
+    top: 38%;
+    left: 15%;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    background-position: 50%;
+    color: #363636;
+    font-size: 28px;
+    line-height: 1.4;
+}
+
+.tt4{
+    position: absolute;
+    top: 38%;
+    left: 39.5%;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    background-position: 50%;
+    color: #363636;
+    font-size: 28px;
+    line-height: 1.4;
+}
+
+.tt5{
+    position: absolute;
+    top: 38%;
+    left: 68%;
+    font-family: "Freight Neo Wo3 Medium";
+    font-weight: 500;
+    background-position: 50%;
+    color: #363636;
+    font-size: 28px;
+    line-height: 1.4;
+}
+
+
+
+
+
